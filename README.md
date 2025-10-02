@@ -3,10 +3,34 @@
 I am a passionate and data-driven professional currently pursuing a Master of Science in Business Analytics at Emory University's Goizueta Business School.
 
 - 🎓 I hold a Master's in Big Data Analytics and a Bachelor's in Computing Science.
-- 💼 My professional experience includes roles as a Fraud Data Analyst and IT Risk Analyst at Econet Wireless Zimbabwe, November 2019 - June 2025.
+- 💼 Professional experience - Fraud Data Analyst and IT Risk Analyst at Econet Wireless Zimbabwe, November 2019 - June 2025.
 - 🤖 I have hands-on experience applying Agentic and Generative AI in fraud analytics, which reduced manual reviews by 80%.
-- 📊 I specialize in creating enterprise BI dashboards using Tableau, Power BI, and Qlik-sense to digitize internal controls and streamline reporting[cite: 25].
-- ☁️ I have designed and operationalized cloud-based data assurance frameworks on Microsoft Azure & AWS[cite: 26].
+- 📊 I specialize in creating enterprise BI dashboards using Tableau, Power BI, and Qlik-sense to digitize internal controls and streamline reporting.
+- ☁️ I have designed and operationalized cloud-based data assurance frameworks on Microsoft Azure & AWS.
+
+---
+
+### 🚀 Projects & Achievements
+
+🔮 Predictive Analytics for Risk Mitigation
+- Applied predictive analytics and anomaly detection models to proactively identify and address revenue leakage and fraud risks.
+- Skills & Tools: Predictive Modeling 📈, Anomaly Detection 🧐
+- Achievement: Maintained financial losses below 0.50% of total revenue by identifying risks before they escalated.
+
+📊 Enterprise Business Intelligence & Reporting Automation
+- Created and automated enterprise-level BI dashboards and KPI monitoring systems to digitize internal controls and streamline compliance.
+- Skills & Tools: Power BI 📈, Tableau 📊, Qlik-sense 📉, ACL
+- Achievement: Digitized 90% of internal controls, reduced reporting cycles by 50%, and decreased manual oversight by 80%, leading to a 99% compliance score.
+
+☁️ Cloud Data Assurance Framework
+- Designed and operationalized data assurance frameworks for system migrations and disaster recovery in cloud environments.
+- Skills & Tools: Microsoft Azure 🔵, AWS 🟠, Data Governance 📜
+- Achievement: Successfully achieved 100% data quality and regulatory compliance for all business-critical datasets during the migration process.
+
+🤖 AI-Powered Fraud Detection Framework
+- Engineered and deployed an end-to-end fraud detection framework using Agentic and Generative AI to analyze over 10 million daily transactions.
+- Skills & Tools: Machine Learning 🧠, SQL 💾, Forensic Analytics 🔍
+- Achievement: Improved fraud detection accuracy to 95%, reduced manual review processes by 80%, and maintained fraud leakages at less than 0.50%.
 
 ---
 
