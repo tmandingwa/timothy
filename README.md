@@ -1,23 +1,23 @@
 # Hi there 👋, I'm Timothy Mandingwa
 
-I am a passionate and driven data professional currently pursuing a Master of Science in Business Analytics at Emory University's Goizueta Business School[cite: 3, 4].
+I am a passionate and data-driven professional currently pursuing a Master of Science in Business Analytics at Emory University's Goizueta Business School.
 
-- 🎓 I hold a Master's in Big Data Analytics and a Bachelor's in Business Studies and Computing Science[cite: 6, 8].
-- 💼 My professional experience includes roles as a Fraud Data Analyst and IT Risk Analyst at Econet Wireless Zimbabwe[cite: 19, 20, 29].
-- 🤖 I have hands-on experience applying Agentic and Generative AI in fraud analytics, which reduced manual reviews by 80%[cite: 24].
-- [cite_start]📊 I specialize in creating enterprise BI dashboards using Tableau, Power BI, and Qlik-sense to digitize internal controls and streamline reporting[cite: 25].
-- [cite_start]☁️ I have designed and operationalized cloud-based data assurance frameworks on Microsoft Azure & AWS[cite: 26].
+- 🎓 I hold a Master's in Big Data Analytics and a Bachelor's in Computing Science.
+- 💼 My professional experience includes roles as a Fraud Data Analyst and IT Risk Analyst at Econet Wireless Zimbabwe, November 2019 - June 2025.
+- 🤖 I have hands-on experience applying Agentic and Generative AI in fraud analytics, which reduced manual reviews by 80%.
+- 📊 I specialize in creating enterprise BI dashboards using Tableau, Power BI, and Qlik-sense to digitize internal controls and streamline reporting[cite: 25].
+- ☁️ I have designed and operationalized cloud-based data assurance frameworks on Microsoft Azure & AWS[cite: 26].
 
 ---
 
 ### 📚 Education
 
-- **Emory University, Goizueta Business School** | [cite_start]Atlanta, GA [cite: 3]
-  - *Master of Science in Business Analytics (MSBA), STEM* | [cite_start]Expected May 2026 [cite: 4, 13]
-- **Chinhoyi University of Technology** | [cite_start]Harare, Zimbabwe [cite: 5]
-  - *Master of Science in Big Data Analytics* | [cite_start]May 2023 [cite: 6, 14]
-- **University of Zimbabwe** | [cite_start]Harare, Zimbabwe [cite: 7]
-  - *Bachelor of Business Studies and Computing Science, Honors* | [cite_start]June 2019 [cite: 8, 15]
+- **Emory University, Goizueta Business School** | Atlanta, GA 
+  - *Master of Science in Business Analytics (MSBA), STEM* | Expected May 2026 
+- **Chinhoyi University of Technology** | Harare, Zimbabwe 
+  - *Master of Science in Big Data Analytics* | May 2023 
+- **University of Zimbabwe** | Harare, Zimbabwe 
+  - *Bachelor of Business Studies and Computing Science, Honors* | June 2019 
 
 ---
 
