@@ -29,10 +29,12 @@ I am a passionate and data-driven professional currently pursuing a Master of Sc
 
 ### 📚 Education
 
-- **Emory University, Goizueta Business School** | Atlanta, GA 
+- **Emory University, Goizueta Business School** | Atlanta, GA, USA
   - *Master of Science in Business Analytics (MSBA), STEM* | Expected May 2026 
+  
 - **Chinhoyi University of Technology** | Harare, Zimbabwe 
   - *Master of Science in Big Data Analytics* | May 2023 
+  
 - **University of Zimbabwe** | Harare, Zimbabwe 
   - *Bachelor of Business Studies and Computing Science, Honors* | June 2019 
 
