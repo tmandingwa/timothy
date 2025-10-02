@@ -109,6 +109,6 @@ I am a passionate and data-driven professional currently pursuing a Master of Sc
 ### Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-profile-url/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/></a>
+  <a href="https://www.linkedin.com/in/timothymandingwa" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/></a>
   <a href="mailto:timothy.mandingwa@emory.edu" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/></a>
 </p>
