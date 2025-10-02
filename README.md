@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Timothy Mandingwa
+# I'm Timothy Mandingwa | Master’s in Business Analytics Candidate at Emory Goizueta Business School • Data Science • Machine Learning • Business Intelligence • Data & Fraud Analyst
 
 I am a passionate and data-driven professional currently pursuing a Master of Science in Business Analytics at Emory University's Goizueta Business School.
 
