@@ -1,47 +1,62 @@
-<table width="100%">
-  <tr>
-    <td width="35%" valign="top">
-      <p align="center">
-        <img src="URL_TO_YOUR_PROFILE_PICTURE.jpg" alt="Timothy Mandingwa" width="200px" style="border-radius:50%">
-      </p>
-      <h3 align="center">Timothy Mandingwa [cite: 2]</h3>
-      <p align="center"><em>your-github-handle</em></p>
-      <p align="center">
-        Aspiring Business Analytics professional with a robust background in Data Science, Fraud Analytics, and Risk Management. [cite: 4, 20]
-      </p>
-      <hr>
-      <ul>
-        <li>📍 Atlanta, GA </li>
-        <li>📧 <a href="mailto:timothy.mandingwa@emory.edu">timothy.mandingwa@emory.edu</a> [cite: 2]</li>
-        <li>🔗 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_URL/">LinkedIn Profile</a> [cite: 2]</li>
-      </ul>
-      <hr>
-    </td>
-    <td width="65%" valign="top">
-      <h2>Hi there 👋 I'm Timothy!</h2>
-      
-      <h3>About Me:</h3>
-      <p>
-        I am a Business Analytics and Technology Risk professional with a passion for leveraging data-driven insights to drive business success and mitigate risks. [cite: 20] With expertise in Fraud Analytics, Data Governance, and IT Risk Management, I have successfully engineered AI-powered fraud detection frameworks analyzing millions of daily transactions [cite: 27], developed enterprise-level BI dashboards [cite: 25], and designed robust cloud-based data assurance frameworks on AWS and Azure. [cite: 26]
-      </p>
-      
-      <p>
-        As I pursue my Master's in Business Analytics at Emory University, I am focused on deepening my expertise in advanced analytics, including predictive modeling, NLP, and machine learning applications in a business context. [cite: 4] I am seeking to apply my skills to solve complex challenges in a dynamic, data-forward organization.
-      </p>
+# Hi there 👋, I'm Timothy Mandingwa
 
-      <ul>
-        <li>🎓 Pursuing a <strong>Master of Science in Business Analytics</strong> at Emory University. [cite: 4]</li>
-        <li>💡 Exploring applications of <strong>Generative AI</strong> in business and fraud analytics. [cite: 24]</li>
-        <li>📈 Always learning new data visualization techniques with <strong>Power BI</strong> and <strong>Tableau</strong>. [cite: 16, 25]</li>
-        <li>Fun fact: [Enter a fun fact about yourself here!]</li>
-      </ul>
+[cite_start]I'm a Master of Science in Business Analytics candidate at Emory University's Goizueta Business School [cite: 3, 4] [cite_start]with a deep background in data science, fraud analytics, and IT risk management[cite: 20, 29, 39]. I am passionate about leveraging data to solve complex business problems, building intelligent systems, and deriving actionable insights that drive strategic decisions.
 
-      <h3>🎓 Education:</h3>
-      <ul>
-        <li><strong>Emory University, Goizueta Business School</strong> - M.S. in Business Analytics [cite: 3, 4]</li>
-        <li><strong>Chinhoyi University of Technology</strong> - M.S. in Big Data Analytics [cite: 5, 6]</li>
-        <li><strong>University of Zimbabwe</strong> - B.S. in Business Studies and Computing Science, Honors [cite: 7, 8]</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- [cite_start]🎓 Pursuing my **MS in Business Analytics** from Emory University (May 2026)[cite: 4, 13].
+- [cite_start]📈 Experienced **Fraud Data Analyst** with a history of reducing fraud leakage to under 0.50% by engineering AI-powered detection frameworks that analyze over 10 million daily transactions[cite: 20, 24, 27].
+- [cite_start]☁️ Skilled in designing and operationalizing **cloud-based data assurance frameworks** on AWS & Microsoft Azure[cite: 16, 26].
+- [cite_start]📊 Expert in creating **Enterprise Business Intelligence dashboards** with Tableau, Power BI, and Qlik, digitizing 90% of internal controls and reducing reporting cycles by 50%[cite: 16, 25].
+
+---
+
+### 🛠️ My Technical Capabilities
+
+#### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+* [cite_start]**Python:** Pandas, NumPy, Seaborn, Scikit-learn, Plotnine [cite: 12]
+* [cite_start]**R, SQL, DAX, Hive, Kafka** [cite: 12]
+
+#### Data, Cloud & BI Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white)
+
+* [cite_start]**BI & Visualization:** Power BI, Tableau, Qlik, Excel [cite: 16]
+* [cite_start]**Big Data:** Hadoop, Apache Spark, Hive, Kafka [cite: 12, 16]
+* [cite_start]**Cloud & Databases:** AWS, BigQuery, NoSQL [cite: 16]
+
+#### Analytical Techniques
+* [cite_start]A/B Testing [cite: 10]
+* [cite_start]Regression & Clustering [cite: 10]
+* [cite_start]NLP (Natural Language Processing) [cite: 10]
+* [cite_start]Forecasting & Time Series Analysis [cite: 10]
+* [cite_start]Benford's Law Analysis [cite: 10]
+
+---
+
+### 💼 Professional Experience Highlights
+
+#### **Fraud Data Analyst** | [cite_start]Econet Wireless Zimbabwe [cite: 19, 20] (2021-2025) [cite_start][cite: 23]
+- [cite_start]Applied Agentic and Generative AI in fraud analytics, reducing manual investigation reviews by 80%[cite: 24].
+- [cite_start]Engineered and deployed an AI-powered fraud detection framework analyzing over 10M daily transactions, improving detection accuracy to 95%[cite: 27].
+- [cite_start]Built and automated SQL-driven data pipelines for real-time alerts, compliance audits, and anomaly detection[cite: 28].
+
+#### **IT Risk Analyst** | [cite_start]Econet Wireless Zimbabwe [cite: 19, 29] (2019-2021) [cite_start][cite: 31]
+- [cite_start]Strengthened IT risk management by establishing data governance standards and validation frameworks, enhancing data reliability to nearly 100%[cite: 32].
+- [cite_start]Implemented automated KPI monitoring dashboards (Power BI, Qlik) that improved compliance scoring to 99% and reduced manual oversight by 80%[cite: 36].
+
+---
+
+### 📫 How to Reach Me
+
+<a href="mailto:timothy.mandingwa@emory.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/your-linkedin-profile-here/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+*Please replace `your-linkedin-profile-here` with your actual LinkedIn profile URL.*
