@@ -1,10 +1,10 @@
 # Hi there 👋, I'm Timothy Mandingwa
 
-[cite_start]I am a passionate and driven data professional currently pursuing a Master of Science in Business Analytics at Emory University's Goizueta Business School[cite: 3, 4].
+I am a passionate and driven data professional currently pursuing a Master of Science in Business Analytics at Emory University's Goizueta Business School[cite: 3, 4].
 
-- [cite_start]🎓 I hold a Master's in Big Data Analytics and a Bachelor's in Business Studies and Computing Science[cite: 6, 8].
-- [cite_start]💼 My professional experience includes roles as a Fraud Data Analyst and IT Risk Analyst at Econet Wireless Zimbabwe[cite: 19, 20, 29].
-- [cite_start]🤖 I have hands-on experience applying Agentic and Generative AI in fraud analytics, which reduced manual reviews by 80%[cite: 24].
+- 🎓 I hold a Master's in Big Data Analytics and a Bachelor's in Business Studies and Computing Science[cite: 6, 8].
+- 💼 My professional experience includes roles as a Fraud Data Analyst and IT Risk Analyst at Econet Wireless Zimbabwe[cite: 19, 20, 29].
+- 🤖 I have hands-on experience applying Agentic and Generative AI in fraud analytics, which reduced manual reviews by 80%[cite: 24].
 - [cite_start]📊 I specialize in creating enterprise BI dashboards using Tableau, Power BI, and Qlik-sense to digitize internal controls and streamline reporting[cite: 25].
 - [cite_start]☁️ I have designed and operationalized cloud-based data assurance frameworks on Microsoft Azure & AWS[cite: 26].
 
