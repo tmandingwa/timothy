@@ -4,9 +4,6 @@ I am a passionate and data-driven professional currently pursuing a Master of Sc
 
 - 🎓 I hold a Master's in Big Data Analytics and a Bachelor's in Computing Science.
 - 💼 Professional experience - Fraud Data Analyst and IT Risk Analyst at Econet Wireless Zimbabwe, November 2019 - June 2025.
-- 🤖 I have hands-on experience applying Agentic and Generative AI in fraud analytics, which reduced manual reviews by 80%.
-- 📊 I specialize in creating enterprise BI dashboards using Tableau, Power BI, and Qlik-sense to digitize internal controls and streamline reporting.
-- ☁️ I have designed and operationalized cloud-based data assurance frameworks on Microsoft Azure & AWS.
 
 ---
 
